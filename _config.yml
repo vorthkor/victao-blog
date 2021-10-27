@@ -1,4 +1,7 @@
 title: My super blog
+theme: jekyll-theme-midnight
+# theme: minima
+
 author: vorthkor
 email: virtorf@etlgr.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -9,4 +12,3 @@ description: > # this means to ignore newlines until "baseurl:"
 github_username:  vorthkor # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
