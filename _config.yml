@@ -10,8 +10,7 @@ show_excerpts: false # set to false to remove excerpts on the homepage
 minima:
   skin: dark
 
-social links:
-# twitter_username: # DO NOT include the @ character, or else the build will fail!
+social_links:
   github: vorthkor # DO NOT include the @ character, or else the build will fail!
 
 # Build settings
