@@ -1,6 +1,8 @@
 title: My super blog
 # theme: jekyll-theme-midnight
 theme: minima
+minima:
+  skin: dark
 
 author: vorthkor
 email: virtorf@etlgr.com
