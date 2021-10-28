@@ -12,7 +12,7 @@ minima:
 
 social links:
 # twitter_username: # DO NOT include the @ character, or else the build will fail!
-  github:  vorthkor # DO NOT include the @ character, or else the build will fail!
+  github: vorthkor # DO NOT include the @ character, or else the build will fail!
 
 # Build settings
 theme: minima
