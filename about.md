@@ -12,5 +12,3 @@ This is the base Jekyll theme. And I made a copy just to add this page about me 
 [My profile](https://github.com/vorthkor)
 
 [My blog](https://vorthkor.github.io/victao-blog/)
-
-[My website](https://vorthkor.github.io/wikitao/)
