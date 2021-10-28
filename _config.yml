@@ -8,17 +8,22 @@ description: > # this means to ignore newlines until "baseurl:"
 show_excerpts: false # set to false to remove excerpts on the homepage
 
 minima:
+  date_format: "%b %-d, %Y"
   skin: dark
 
-social_links:
-  github: vorthkor # DO NOT include the @ character, or else the build will fail!
+  # generate social links in footer
+  social_links:
+    twitter: mf4raday
+    github:  vorthkor
 
-# Build settings
-theme: minima
-
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
 header_pages:
   - about.md
   - portfolio.md
+
+# Build settings
+theme: minima
 
 plugins:
  - jekyll-feed
