@@ -1,16 +1,22 @@
 title: My super blog
-# theme: jekyll-theme-midnight
-theme: minima
-minima:
-  skin: dark
-
-author: vorthkor
-email: virtorf@etlgr.com
+author: 
+  name: vorthkor
+  email: virtorf@etlgr.com
 description: > # this means to ignore newlines until "baseurl:"
   Não mais um teste de blog usando Jekyll e Github Pages. Agora um blog mesmo.
 
-# social links
-# twitter_username: # DO NOT include the @ character, or else the build will fail!
-github_username:  vorthkor # DO NOT include the @ character, or else the build will fail!
+show_excerpts: false # set to false to remove excerpts on the homepage
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+minima:
+  skin: dark
+
+social links:
+# twitter_username: # DO NOT include the @ character, or else the build will fail!
+  github:  vorthkor # DO NOT include the @ character, or else the build will fail!
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
