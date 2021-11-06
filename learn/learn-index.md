@@ -1,6 +1,6 @@
 ---
-title: "Welcome to my blog"
-layout: home
+title: "Electronic Learning"
+layout: page
 ---
 
 # Electronic Topics
