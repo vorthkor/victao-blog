@@ -11,5 +11,5 @@ Learn with me!
 
 ## Topics
 
-[Electronic](learn/)
+[Electronic](learn/learn-index.md)
 
