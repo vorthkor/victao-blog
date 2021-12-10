@@ -9,14 +9,14 @@ categories: learn
 
 > Writing this because everytime I format the SD Card I forgot how to set the headless way.
 
-# Table of Contents
-- [How to headless set up your raspberry pi](#how-to-headless-set-up-your-raspberry-pi)
-- [Table of Contents](#table-of-contents)
+***
+
+## Table of Contents
   - [Setting Up](#setting-up)
   - [VNC access](#vnc-access)
   - [Troubleshoot](#troubleshoot)
 
-<a name="settingup"></a>
+***
 ## Setting Up
 After installing the OS on the sd card, open the boot folder and create the two files on root:
 - `ssh`
@@ -42,7 +42,7 @@ After it, access through terminal with `sudo ssh pi@raspberrypi.local`.
 
 The default password is `raspberry`.
 
-<a name="vncaccess"></a>
+***
 ## VNC access
 
 Inside the ssh access, configure the VNC with `sudo raspi-config` following:
@@ -56,8 +56,7 @@ Then, open the connection with VNC Viewer with the credentials (if default):
 user raspberrypi.local
 passwd raspberry
 ```
-
-<a name="troubleshoot"></a>
+***
 ## Troubleshoot
 
 You may bump on some
