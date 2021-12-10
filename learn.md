@@ -11,5 +11,5 @@ Learn with me!
 
 ## Topics
 
-[Electronic](learn/learn-index.md)
+[How to set up headless Raspberry Pi](learn/2021-12-10-headlessraspi.md)
 
