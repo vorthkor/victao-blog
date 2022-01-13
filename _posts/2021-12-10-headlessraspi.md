@@ -5,7 +5,9 @@ date: 2021-12-10
 categories: learn
 ---
 
-# How to headless set up your raspberry pi
+How to headless set up your raspberry pi
+
+# Ahoy
 
 > Writing this because everytime I format the SD Card I forgot how to set the headless way.
 
