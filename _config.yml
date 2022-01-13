@@ -5,7 +5,7 @@ author:
 description: > # this means to ignore newlines until "baseurl:"
   Não mais um teste de blog usando Jekyll e Github Pages. Agora um blog mesmo.
 
-show_excerpts: false # set to false to remove excerpts on the homepage
+show_excerpts: true # set to false to remove excerpts on the homepage
 
 minima:
   date_format: "%b %-d, %Y"
@@ -19,12 +19,10 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
   - about.md
-  - portfolio.md
-  - learn.md
 
 # Build settings
 theme: minima
 
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
+#plugins:
+ #- jekyll-feed
+# - jekyll-seo-tag
