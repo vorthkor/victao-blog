@@ -42,3 +42,11 @@ Having the `file.txt` just:
 ```
 
 ***
+## Appending on lists
+List is a mutable chain of elements like `pizza = ['nice', 'cold']`. To append more elements :
+
+```
+    pizza.append('hot')
+```
+
+***
