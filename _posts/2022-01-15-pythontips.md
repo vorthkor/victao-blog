@@ -16,6 +16,7 @@ Some python tips for life
 ## Table of Contents
   - [Initializing the main function](#initializing-the-main-function)
   - [Reading files](#reading-files)
+  - [Appending on lists](#appending-on-lists)
 
 ***
 ## Initializing the main function
