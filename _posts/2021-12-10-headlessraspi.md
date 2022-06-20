@@ -81,3 +81,8 @@ In case of one of that or both, just access your ssh file with
 `cd ~/.ssh/` 
 and change the `known_hosts` file with
 `sudo nano known_hosts`. In the file, just delete (`crtl+k`) the lines containing `raspberrypi.local`. And that's it!
+
+### Update! (20/06/2022)
+
+Actually, the path may be different and it will be shown on the Terminal.
+Maybe it's on `/var/root/.ssh/known_hosts`.
