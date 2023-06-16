@@ -1,5 +1,3 @@
 # Blog do victao
 
-Oh! I haven't introduced myself...
-
-[Click here!](https://vorthkor.github.io/victao-blog/)
+My personal technology blog with topics I bumped sometime while developing code or electronic stuff.
