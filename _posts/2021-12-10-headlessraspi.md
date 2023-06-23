@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Raspberry Pi Headless"
+title: "Raspberry Pi Headless [UPDATED]"
 date: 2021-12-10
 categories: learn
 ---
 
-How to headless set up your raspberry pi
+How to headless set up your raspberry pi.
 
 # Ahoy
 
@@ -14,12 +14,23 @@ How to headless set up your raspberry pi
 ***
 
 ## Table of Contents
+  - [NEW!](#new)
   - [Setting Up](#setting-up)
   - [VNC access](#vnc-access)
   - [Troubleshoot](#troubleshoot)
 
 ***
+## NEW
+
+Today it is much easier to set up the sd card to boot on your raspberry pi!
+- Install the [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
+- Open the software, and after choose an OS click on the right-below setting icon
+- NOW the wi-fi configurations can be assigned here, without the necessity to open previously the directories and create files. To older way of configure, see below.
+
+***
 ## Setting Up
+(On Linux Terminal)
+
 After installing the OS on the sd card, open the boot folder and create the two files on root:
 - `ssh`
 - `wpa_supplicant.conf`
